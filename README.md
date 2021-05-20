@@ -64,7 +64,7 @@ Open `config/config.json` then edit it with your settings. You will need:
 
 ## Running the project
 
-    $ node index.js
+    $ npm start
     
 ## Testing the project
 
