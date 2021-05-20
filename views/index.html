@@ -1,0 +1,28 @@
+<html>    
+  <body> 
+   
+
+  <label for="lblTweetId">Tweet Id:</label>
+  <input type="text" id="tweetId" name="fname"><br><br>
+  <input type="submit" value="Fetch Details" onClick="myFunction()">
+   <script>
+     function myFunction() {
+var tweetIdVal = document.getElementById("tweetId").value;
+if (tweetIdVal == "")
+{
+alert("Please input an Id");
+return false;
+}
+else 
+{
+window.location.href="/tweet/"+document.getElementById("tweetId").value;  
+return true; 
+}
+       
+     }
+   </script>
+   
+  </body>    
+</html> 
+
+

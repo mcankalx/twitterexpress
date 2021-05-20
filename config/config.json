@@ -1,0 +1,16 @@
+{
+    "development": {
+        "config_id": "development",
+        "app_name": "twitterfetchapp",
+        "app_desc": "this app fetches the details of a tweet based on an id the user passes in the URL",
+	"app_uri": "/tweet/:id",
+        "node_port": 3000,
+        "url_twitter": "https://api.twitter.com/2/tweets/",
+        "oauth_consumer_key": "kRAH1OQmYjqMMrhPhLEHElxz1",
+	"oauth_token":"860443446695387136-OlUFtnTmv8sUPAERYGThL7NmxFOSGe6",
+	"oauth_signature_method":"HMAC-SHA1",
+	"oauth_nonce":"yhDqzJ8AFaI",
+	"oauth_version":"1.0",
+	"oauth_signature":"a%2BexUkgsis4ItaB%2F3gBONWn4qE0%3D"		
+    }
+}
