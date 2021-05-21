@@ -10,9 +10,8 @@
 	"oauth_twitterSecret":"7JbfTwJpFHAYPAk0EXue2NcsOeGuvvVWoLQGMifMuKk335BNKN",
 	"oauth_token": "860443446695387136-YzzKXxbtZWzkgyqgJtftcBx5avYHQvs",
 	"oauth_secret": "usHT7RXZtygfyV3WWuQhFpKxznDT9ZVp1YlPLr2fVGtHT",
-	"oauth_signature_method":"HMAC-SHA1",
-	"oauth_nonce":"yhDqzJ8AFaI",
+	"oauth_signature_method":"HMAC-SHA1",	
 	"oauth_version":"1.0",
-	"oauth_signature":"a%2BexUkgsis4ItaB%2F3gBONWn4qE0%3D"		
+		
     }
 }
