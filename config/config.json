@@ -11,7 +11,7 @@
 	"oauth_token": "860443446695387136-YzzKXxbtZWzkgyqgJtftcBx5avYHQvs",
 	"oauth_secret": "usHT7RXZtygfyV3WWuQhFpKxznDT9ZVp1YlPLr2fVGtHT",
 	"oauth_signature_method":"HMAC-SHA1",	
-	"oauth_version":"1.0",
+	"oauth_version":"1.0"
 		
     }
 }
